@@ -11,7 +11,7 @@
   </tr>
   
   <tr>
-    <td class="tg-0lax">Hrushikesh Adhikar Pawar</td>
+    <td class="tg-0lax">Hrushikesh Pawar</td>
   </tr>
   
   <tr>
